@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.hero {
+    background-color: rgb(27, 27, 107); 
+    background: url(https://expium.com/assets/hero/expium-home.png) top/cover no-repeat;
+    height: 300px;
+}
+
+.hero-text {
+    color: orange;
+}
+
+.website-logo {
+    width: 50px;
+}
+
+.main-nav {
+    float: right;
+    margin-top: 15px;
+    text-transform: uppercase; 
+}
+
+.main-nav a {
+    padding-right: 10px;
+    font-weight: 900;
+}
